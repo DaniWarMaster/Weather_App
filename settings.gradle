@@ -1,0 +1,7 @@
+rootProject.name = "WeatherApp"
+include ':app'
+include ':Service'
+include ':View'
+include ':Details'
+include ':Database'
+include ':common_view'

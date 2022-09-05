@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/ora_id_list_item_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="ora"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/temperatura_id_list_item_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="temperatura"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/cloud_area_id_list_item_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="innorat"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/humidity_id_list_item_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="humiditate"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/wind_speed_id_list_item_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="vitezaVant"
+        android:textSize="18sp" />
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GEBS/WeatherApp_3/Details/src/main/res/layout/details_layout.xml" value="0.1707193515704154" />
+        <entry key="..\:/GEBS/WeatherApp_3/View/src/main/res/layout/list_item.xml" value="0.20833333333333334" />
+        <entry key="..\:/GEBS/WeatherApp_3/View/src/main/res/layout/main_map_fragment.xml" value="0.1111111111111111" />
+        <entry key="..\:/GEBS/WeatherApp_3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
